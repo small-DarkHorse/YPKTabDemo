@@ -77,7 +77,7 @@ val tabTextList: MutableList<String> = ArrayList<String>()
 
 ```
 
-### 属性说明：
+## 属性说明：
 属性     | 说明
 -------- | -----
 tabTextColor| tab的文字颜色
@@ -93,7 +93,6 @@ view_bg_corners| 控件的圆角大小（单位：dp）
 ## 版本更新说明：
 ### 1.2.0
 1：特别说明自1.2.0版本开始，代码已改为kotlin语言。
-
 
 ### 1.0.6
 1：新增了设置默认选中tab项的功能
